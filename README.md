@@ -1,4 +1,4 @@
-# Web_scraping_de_direcciones_Chile
+# Web scraping de direcciones Chile
 Web scraping a sitio web que busca direcciones de personas en base a un RUT chileno ingresado.
 
 Ocupo principalmente las librerías:
